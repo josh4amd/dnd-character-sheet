@@ -13,3 +13,8 @@ npm start
 
 # Credits
 Basic off electron-vue-webpack project: https://github.com/pastahito/electron-vue-webpack
+
+Photos:
+Johannes Plenio on Unsplash
+
+Layne Lawson on Unsplash
