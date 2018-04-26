@@ -90,7 +90,7 @@ export default {
 
 <style>
   .traits {
-    background-image: url('../assets/DnD_MM_Art.jpg');
+    background-image: url('../assets/johannes-plenio-317653-unsplash.jpg');
     border-radius: 10px;
     border: 3px solid #784413;
     padding-top: 10px;

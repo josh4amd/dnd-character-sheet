@@ -3,7 +3,7 @@
     <div class="container-fluid" style="background: linear-gradient(to right, black, #990000); border-radius: 5px; padding: 5px;">
       <div class="row">
         <div class="col-md-12">
-          <img src="./assets/DnD_Logo.png" class="img-fluid" style="max-width:40%; height:auto;"/>
+          <h2>5e Character Sheet</h2>
         </div>
       </div>
     </div>
@@ -33,6 +33,7 @@
         <Spells ref="spells"/>
       </b-tab>
     </b-tabs>
+    <p>Wizards of the Coast, Dungeons and Dragons, DnD, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2018 Wizards. All Rights Reserved. This project is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC.</p>
   </div>
 </template>
 

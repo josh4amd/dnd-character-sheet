@@ -191,12 +191,6 @@ export default {
         }
 
         return payload;
-
-          // axios({ method: "POST", "url": "http://" + constants.ip + ":8080/save-proficiencies", "data": payload, "headers": { "content-type": "application/json", "Access-Control-Allow-Origin": "*" } }).then(result => {
-          //     console.log(result.data)
-          // }, error => {
-          //     console.error(error);
-          // });
       },
       getBonus(val) {
         if(!val) {
@@ -275,7 +269,7 @@ export default {
 
 <style>
   .proficiencies {
-    background-image: url('../assets/DnD_MM_Art.jpg');
+    background-image: url('../assets/johannes-plenio-317653-unsplash.jpg');
     //background: linear-gradient(to right, black, #663300);
     border-radius: 10px;
     border: 3px solid #784413;

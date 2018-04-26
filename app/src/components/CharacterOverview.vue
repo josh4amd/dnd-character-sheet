@@ -2,9 +2,6 @@
   <div class="characterOverview">
     <div class="container-fluid">
       <div class="row">
-          <!-- <div class="col-lg">
-            <img src="../assets/dnd_dragon.jpg"/>
-          </div> -->
           <div class="col-md-4">
             Character Name
             <input type="text" class="form-control" v-model="characterName" placeholder="Character Name"/>
@@ -94,7 +91,7 @@
 
 <style>
   .characterOverview {
-    background-image: url('../assets/DnD_MM_Art.jpg');
+    background-image: url('../assets/johannes-plenio-317653-unsplash.jpg');
     border-radius: 10px;
     border: 3px solid #784413;
   }

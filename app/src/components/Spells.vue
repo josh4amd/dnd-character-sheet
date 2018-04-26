@@ -130,7 +130,7 @@ export default {
 
 <style>
   .spells {
-    background-image: url('../assets/DnD_DMG_Art.jpg');
+    background-image: url('../assets/layne-lawson-101816-unsplash.jpg');
     border-radius: 10px;
     border: 3px solid #784413;
     padding-top: 10px;
