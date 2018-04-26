@@ -1,0 +1,30 @@
+{
+  "name": "dnd-character-sheet",
+  "version": "1.0.0",
+  "description": "DnD Character Sheet",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack",
+    "start": "electron ."
+  },
+  "author": "Josh Hekimian <josh4amd@gmail.com>",
+  "repository": "josh4amd/dnd-character-sheet",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "bootstrap-vue": "^2.0.0-rc.8",
+    "fs": "0.0.1-security",
+    "jquery": "^3.3.1",
+    "script-loader": "^0.7.2",
+    "style-loader": "^0.21.0",
+    "vue": "^2.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "electron": "^1.4.3",
+    "electron-reload": "^1.0.2",
+    "file-loader": "^0.9.0",
+    "vue-loader": "^9.5.1",
+    "webpack": "^2.1.0-beta.22"
+  }
+}
