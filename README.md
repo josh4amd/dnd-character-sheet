@@ -1,7 +1,7 @@
 # dnd-character-sheet
 DnD Character Sheet using Vue and Electron
 
-I build this a project to learn Vue and Electron and to use in DnD sessions.
+I built this project to learn Vue and Electron and for use in DnD sessions.
 Please feel free to contribute. PRs are welcome!
 
 # To Run
@@ -12,9 +12,9 @@ npm run dev
 npm start
 
 # Credits
-Basic off electron-vue-webpack project: https://github.com/pastahito/electron-vue-webpack
+Based off the electron-vue-webpack project: https://github.com/pastahito/electron-vue-webpack
 
-Photos:
+Background Photos:
 Johannes Plenio on Unsplash
 
 Layne Lawson on Unsplash
